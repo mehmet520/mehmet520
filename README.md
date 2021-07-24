@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mehmet520
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Python und Java
+- 💞️ I’m looking to collaborate on code writing
+- 📫 How to reach me ...
