@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehmet520
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Python, Java, HTML5
+- 🌱 I’m currently learning Python, Java, HTML5, JavaScript, React
 - 💞️ I’m looking to collaborate on code writing
 - 📫 How to reach me ...
